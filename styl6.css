@@ -1,0 +1,25 @@
+.main2 {
+	background-color: #FCF;
+	height: 498px;
+	width: 293px;
+	position: absolute;
+	left: 847px;
+	top: 8px;
+}
+.main3 {
+	background-color: #FCC;
+	height: 488px;
+	width: 279px;
+	position: absolute;
+	left: 560px;
+	top: 11px;
+}
+.main4 {
+	background-color: #FCC;
+	height: 526px;
+	width: 547px;
+	position: absolute;
+	left: 14px;
+	top: 62px;
+	z-index:99;
+}

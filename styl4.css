@@ -1,0 +1,45 @@
+.main10 {
+	background-color: #FCC;
+	direction:rtl;
+	height:auto;
+	width: 491px;
+	position: absolute;
+	left: 651px;
+	top: 111px;
+}
+.main20 {
+	background-color: #CCCCFF;
+	direction:rtl;
+	height:222px;
+	width: 317px;
+	position: absolute;
+	left: 331px;
+	top: 113px;
+}
+.main30 {
+	background-color: #C9F;
+	direction:rtl;
+	height:auto;
+	width: 319px;
+	position: absolute;
+	left: 5px;
+	top: 112px;
+}
+.main40 {
+	background-color: #9CF;
+	direction:rtl;
+	height: 87px;
+	width: 668px;
+	position: absolute;
+	left: 19px;
+	top: 11px;
+}
+.main5 {
+	background-color: #3CF;
+	direction:rtl;
+	height:auto;
+	width: 423px;
+	position: absolute;
+	left: 697px;
+	top: 3px;
+}
